@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pre-commit
+pylint
+pytest-order
+flake8
+pytest
+requests
